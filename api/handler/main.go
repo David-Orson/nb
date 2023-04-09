@@ -1,8 +1,8 @@
 package handler
 
 import (
+	"github.com/David-Orson/nb/store"
 	"github.com/gofiber/fiber/v2"
-	"nautilus-billing.com/m/v2/store"
 )
 
 type Handler struct {

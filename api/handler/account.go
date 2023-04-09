@@ -1,9 +1,9 @@
 package handler
 
 import (
+	e "github.com/David-Orson/nb/error"
+	"github.com/David-Orson/nb/store/model"
 	"github.com/gofiber/fiber/v2"
-	e "nautilus-billing.com/m/v2/error"
-	"nautilus-billing.com/m/v2/store/model"
 )
 
 type AccountHandler struct {

@@ -2,10 +2,10 @@ package store
 
 import (
 	"fmt"
+	"github.com/David-Orson/nb/store/model"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 	"gorm.io/gorm/schema"
-	"nautilus-billing.com/m/v2/store/model"
 	"os"
 )
 

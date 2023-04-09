@@ -1,8 +1,8 @@
 package store
 
 import (
-	e "nautilus-billing.com/m/v2/error"
-	"nautilus-billing.com/m/v2/store/model"
+	e "github.com/David-Orson/nb/error"
+	"github.com/David-Orson/nb/store/model"
 )
 
 type AccountActions interface {

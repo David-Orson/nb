@@ -1,8 +1,8 @@
 package store
 
 import (
+	e "github.com/David-Orson/nb/error"
 	"gorm.io/gorm"
-	e "nautilus-billing.com/m/v2/error"
 )
 
 type Actions interface {

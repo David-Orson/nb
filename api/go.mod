@@ -1,4 +1,4 @@
-module nautilus-billing.com/m/v2
+module github.com/David-Orson/nb
 
 go 1.18
 

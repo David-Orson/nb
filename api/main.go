@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
+	e "github.com/David-Orson/nb/error"
+	"github.com/David-Orson/nb/handler"
+	"github.com/David-Orson/nb/store"
 	"github.com/gofiber/fiber/v2"
-	e "nautilus-billing.com/m/v2/error"
-	"nautilus-billing.com/m/v2/handler"
-	"nautilus-billing.com/m/v2/store"
 )
 
 // main is the entry point for the application
